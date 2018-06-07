@@ -1,2 +1,2 @@
-# d-a-projects
+# datasciencecoursera
 The repository for improving d-a skills.
